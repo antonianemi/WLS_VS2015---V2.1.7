@@ -1,0 +1,1 @@
+ Reemplazar el ouput de SingleImage de las compilaciones Instalar2 para Español e InstalarENG para Inglés
